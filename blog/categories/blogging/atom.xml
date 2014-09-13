@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Blogging | My Octopress Blog]]></title>
-  <link href="http://yoursite.com/blog/categories/blogging/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-09-07T13:04:20+01:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Category: Blogging | sam.code()]]></title>
+  <link href="http://sambeaven.github.io/blog/categories/blogging/atom.xml" rel="self"/>
+  <link href="http://sambeaven.github.io/"/>
+  <updated>2014-09-13T13:54:00+01:00</updated>
+  <id>http://sambeaven.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Sam Beaven]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Vim-pencil for Soft Line Breaks]]></title>
-    <link href="http://yoursite.com/blog/2014/09/06/vim-pencil-for-soft-line-breaks/"/>
+    <link href="http://sambeaven.github.io/blog/2014/09/06/vim-pencil-for-soft-line-breaks/"/>
     <updated>2014-09-06T13:31:25+01:00</updated>
-    <id>http://yoursite.com/blog/2014/09/06/vim-pencil-for-soft-line-breaks</id>
+    <id>http://sambeaven.github.io/blog/2014/09/06/vim-pencil-for-soft-line-breaks</id>
     <content type="html"><![CDATA[So I mentioned in a [previous post](/blog/2014/09/06/the-second-post/) that I wasn't happy with the way that word wrapping was working in VIM for me. I've found a VIM plugin that manages the whole thing a lot easier, called VIM-pencil, which adds word-wrapping in a decidedly more sensible way. Mainly it does both hard and soft wraps without messing up the formatting of a post.
 
 Thanks to YADR my environment is now looking very nice indeed.

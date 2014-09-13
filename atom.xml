@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-09-07T13:04:20+01:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[sam.code()]]></title>
+  <link href="http://sambeaven.github.io/atom.xml" rel="self"/>
+  <link href="http://sambeaven.github.io/"/>
+  <updated>2014-09-13T13:54:00+01:00</updated>
+  <id>http://sambeaven.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Sam Beaven]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,22 +15,22 @@
   
   <entry>
     <title type="html"><![CDATA[Vim-pencil for Soft Line Breaks]]></title>
-    <link href="http://yoursite.com/blog/2014/09/06/vim-pencil-for-soft-line-breaks/"/>
+    <link href="http://sambeaven.github.io/blog/2014/09/06/vim-pencil-for-soft-line-breaks/"/>
     <updated>2014-09-06T13:31:25+01:00</updated>
-    <id>http://yoursite.com/blog/2014/09/06/vim-pencil-for-soft-line-breaks</id>
-    <content type="html"><![CDATA[<p>So I mentioned in a <a href="http://yoursite.com/blog/2014/09/06/the-second-post/">previous post</a> that I wasn&rsquo;t happy with the way that word wrapping was working in VIM for me. I&rsquo;ve found a VIM plugin that manages the whole thing a lot easier, called VIM-pencil, which adds word-wrapping in a decidedly more sensible way. Mainly it does both hard and soft wraps without messing up the formatting of a post.</p>
+    <id>http://sambeaven.github.io/blog/2014/09/06/vim-pencil-for-soft-line-breaks</id>
+    <content type="html"><![CDATA[<p>So I mentioned in a <a href="http://sambeaven.github.io/blog/2014/09/06/the-second-post/">previous post</a> that I wasn&rsquo;t happy with the way that word wrapping was working in VIM for me. I&rsquo;ve found a VIM plugin that manages the whole thing a lot easier, called VIM-pencil, which adds word-wrapping in a decidedly more sensible way. Mainly it does both hard and soft wraps without messing up the formatting of a post.</p>
 
 <p>Thanks to YADR my environment is now looking very nice indeed.</p>
 
-<p><img src="http://yoursite.com/images/ScreenshotVIM.png" title="'my vim layout'" ></p>
+<p><img src="http://sambeaven.github.io/images/ScreenshotVIM.png" title="'my vim layout'" ></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Adding Plugins to Yadr]]></title>
-    <link href="http://yoursite.com/blog/2014/09/06/adding-plugins-to-yadr/"/>
+    <link href="http://sambeaven.github.io/blog/2014/09/06/adding-plugins-to-yadr/"/>
     <updated>2014-09-06T13:26:53+01:00</updated>
-    <id>http://yoursite.com/blog/2014/09/06/adding-plugins-to-yadr</id>
+    <id>http://sambeaven.github.io/blog/2014/09/06/adding-plugins-to-yadr</id>
     <content type="html"><![CDATA[<p>So I installed <a href="https://github.com/auser/yadr">yadr</a> some time ago, but lo and behold I&rsquo;d completely forgotten how to add plugins to vim. I knew it used vundle to handle plugins, but I wasn&rsquo;t sure if there was a syntax they preferred.</p>
 
 <p>Oh hey look, there is!</p>
@@ -46,9 +46,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Second Post]]></title>
-    <link href="http://yoursite.com/blog/2014/09/06/the-second-post/"/>
+    <link href="http://sambeaven.github.io/blog/2014/09/06/the-second-post/"/>
     <updated>2014-09-06T13:15:43+01:00</updated>
-    <id>http://yoursite.com/blog/2014/09/06/the-second-post</id>
+    <id>http://sambeaven.github.io/blog/2014/09/06/the-second-post</id>
     <content type="html"><![CDATA[<h2>This is the second post</h2>
 
 <p>I&rsquo;m going to think about headings a bit better this time. Fewer h1&rsquo;s = better.
@@ -60,9 +60,9 @@ Octopress seems really very easy to mess about with, certainly more so than Word
   
   <entry>
     <title type="html"><![CDATA[This Is a Test of Octopress]]></title>
-    <link href="http://yoursite.com/blog/2014/09/06/this-is-a-test-of-octopress/"/>
+    <link href="http://sambeaven.github.io/blog/2014/09/06/this-is-a-test-of-octopress/"/>
     <updated>2014-09-06T12:58:48+01:00</updated>
-    <id>http://yoursite.com/blog/2014/09/06/this-is-a-test-of-octopress</id>
+    <id>http://sambeaven.github.io/blog/2014/09/06/this-is-a-test-of-octopress</id>
     <content type="html"><![CDATA[<h1>Just a test</h1>
 
 <p>Seriously, I&rsquo;m just playing around with Octopress. Nothing important to see here.</p>
